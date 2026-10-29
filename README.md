@@ -30,12 +30,12 @@ I develop and apply **multimodal computational frameworks** that integrate genom
 ## 📌 Softwares developed
 
 ### [ViSPACE](https://github.com/himangi2003/ViSPACE)
-End-to-end computational pathology pipeline for whole-slide image (WSI) analysis. It pairs the **Virchow2** foundation model with a pixel-wise segmentation decoder to produce five-class tissue maps (tumour, stroma, TILs, necrosis, other), then extracts spatial tumour microenvironment features: TSR and sTIL scoring, immune and necrosis proximity, and tumour morphology. Developed under the mentorship of Dr. Joseph Deasy at Memorial Sloan Kettering Cancer Center in 2026.
+End-to-end computational pathology pipeline for whole-slide image (WSI) analysis. It pairs the **Virchow2** foundation model with a pixel-wise segmentation decoder to produce five-class tissue maps (tumour, stroma, TILs, necrosis, other), then extracts spatial tumour microenvironment features: TSR and sTIL scoring, immune and necrosis proximity, and tumour morphology. Developed under the mentorship of Dr. Joseph O. Deasy at Medical Physics at Memorial Sloan Kettering Cancer Center in 2026.
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)
 
 ### [MultiDGEA](https://github.com/himangi2003/MultiDGEA)
-R package for differential gene expression analysis of RNA-seq data across multiple time points. It runs five methods side by side (**limma-voom**, **limma-voom with duplicate correlation**, **DESeq2**, **kimma**, and **DREAM**) and compares their results with p-value and log-fold-change scatter plots and Venn diagrams of significant genes. Also includes heatmaps, volcano plots, and normalized-count plots. Developed under the mentorship of Dr. Andrew Fiore-Gartland at Fred Hutch Cancer Center in 2022.
+R package for differential gene expression analysis of RNA-seq data across multiple time points. It runs five methods side by side (**limma-voom**, **limma-voom with duplicate correlation**, **DESeq2**, **kimma**, and **DREAM**) and compares their results with p-value and log-fold-change scatter plots and Venn diagrams of significant genes. Also includes heatmaps, volcano plots, and normalized-count plots. Developed under the mentorship of Dr. Andrew Fiore-Gartland at VIDD at Fred Hutch Cancer Center in 2022.
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
