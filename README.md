@@ -35,12 +35,14 @@ End-to-end computational pathology pipeline for whole-slide image (WSI) analysis
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)
 
 ### [MultiDGEA](https://github.com/himangi2003/MultiDGEA)
-R package for differential gene expression analysis of RNA-seq data across multiple time points. It runs five methods side by side (**limma-voom**, **limma-voom with duplicate correlation**, **DESeq2**, **kimma**, and **DREAM**) and compares their results with p-value and log-fold-change scatter plots and Venn diagrams of significant genes. Also includes heatmaps, volcano plots, and normalized-count plots. Developed under the mentorship of Dr. Andrew Fiore-Gartland at VIDD at Fred Hutch Cancer Center in 2023.
+R package for differential gene expression analysis of RNA-seq data across multiple time points. It runs five methods side by side (**limma-voom**, **limma-voom with duplicate correlation**, **DESeq2**, **kimma**, and **DREAM**) and compares their results with p-value and log-fold-change scatter plots and Venn diagrams of significant genes. Also includes heatmaps, volcano plots, and normalized-count plots. Developed in 2023 under the mentorship of [Dr. Andrew Fiore-Gartland](https://github.com/agartland) at the Vaccine and Infectious Disease Division (VIDD), Fred Hutch Cancer Center.
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ### [NetSeekR](https://github.com/himangi2003/NetSeekR)
-R package for network analysis of RNA-seq time-series data. It covers alignment, differential expression, correlation and regulatory network inference, and network-based summaries for comparative genomics studies. Co-authored with Drew Ferrell. Developed under the mentorship of Dr. George V. Popescu at IGBB at Mississippi State University in 2021.
+R package for network analysis of RNA-seq time-series data. It covers alignment, differential expression, correlation and regulatory network inference, and network-based summaries for comparative genomics studies. Co-authored with Drew Ferrell. Developed in 2021 under the mentorship of Dr. George V. Popescu at the Institute for Genomics, Biocomputing & Biotechnology (IGBB), Mississippi State University ([lab GitHub](https://github.com/igbb-popescu-lab) · [original repository](https://github.com/igbb-popescu-lab/NetSeekR)).
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bioconductor](https://img.shields.io/badge/Bioconductor-edgeR%20%7C%20limma%20%7C%20WGCNA-1a81c2?style=flat-square)
 
