@@ -27,7 +27,7 @@ I develop and apply **multimodal computational frameworks** that integrate genom
 
 **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📌 Softwares developed
+## 📌 Softwares Developed
 
 ### [ViSPACE](https://github.com/himangi2003/ViSPACE)
 End-to-end computational pathology pipeline for whole-slide image (WSI) analysis. It pairs the **Virchow2** foundation model with a pixel-wise segmentation decoder to produce five-class tissue maps (tumour, stroma, TILs, necrosis, other), then extracts spatial tumour microenvironment features: TSR and sTIL scoring, immune and necrosis proximity, and tumour morphology. Developed in 2026 under the mentorship of Dr. Joseph O. Deasy [ Deasy Lab ](https://deasylab.info) in Medical Physics at Memorial Sloan Kettering Cancer Center. Version 0.1.0 is released, and the package is under active development with more features planned.
