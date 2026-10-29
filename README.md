@@ -48,16 +48,6 @@ R package for network analysis of RNA-seq time-series data. It covers alignment,
 
 ## 🌱 Currently
 
-- Working on: <!-- e.g., multimodal models for immunotherapy response -->
-- Learning: <!-- e.g., foundation models for pathology -->
-- Open to: <!-- e.g., collaborations in computational oncology -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=himangi2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=himangi2003&theme=dark&hide_border=false&layout=compact" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=himangi2003&theme=dark&hide_border=false" alt="GitHub streak" />
-</p>
+- Working on: <-- multimodal models for chemotherapy response in TNBC -->
+- Learning: <--  foundation models for pathology -->
+- Open to: <-- collaborations in computational oncology, bioinformatics, computational biology, computational  immunology -->
