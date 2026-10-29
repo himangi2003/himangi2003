@@ -48,6 +48,6 @@ R package for network analysis of RNA-seq time-series data. It covers alignment,
 
 ## 🌱 Currently
 
-- Working on: <-- multimodal models for chemotherapy response in TNBC -->
-- Learning: <--  foundation models for pathology -->
-- Open to: <-- collaborations in computational oncology, bioinformatics, computational biology, computational  immunology -->
+- Working on: multimodal models for chemotherapy response in TNBC 
+- Learning: foundation models for pathology -->
+- Open to:  collaborations in computational oncology, bioinformatics, computational biology, computational  immunology 
