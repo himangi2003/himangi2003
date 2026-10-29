@@ -40,7 +40,7 @@ R package for differential gene expression analysis of RNA-seq data across multi
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
 ### [NetSeekR](https://github.com/himangi2003/NetSeekR)
-R package for network analysis of RNA-seq time-series data. It covers alignment, differential expression, correlation and regulatory network inference, and network-based summaries for comparative genomics studies. Co-authored with Drew Ferrell. aDeveloped under the mentorship of Dr. George V. Popescu at IGBB at Mississippi State University in 2021.
+R package for network analysis of RNA-seq time-series data. It covers alignment, differential expression, correlation and regulatory network inference, and network-based summaries for comparative genomics studies. Co-authored with Drew Ferrell. Developed under the mentorship of Dr. George V. Popescu at IGBB at Mississippi State University in 2021.
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bioconductor](https://img.shields.io/badge/Bioconductor-edgeR%20%7C%20limma%20%7C%20WGCNA-1a81c2?style=flat-square)
 
