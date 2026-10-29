@@ -27,7 +27,7 @@ I develop and apply **multimodal computational frameworks** that integrate genom
 
 **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📌 Featured Projects
+## 📌 Softwares developed
 
 ### [ViSPACE](https://github.com/himangi2003/ViSPACE)
 End-to-end computational pathology pipeline for whole-slide image (WSI) analysis. It pairs the **Virchow2** foundation model with a pixel-wise segmentation decoder to produce five-class tissue maps (tumour, stroma, TILs, necrosis, other), then extracts spatial tumour microenvironment features: TSR and sTIL scoring, immune and necrosis proximity, and tumour morphology.
@@ -38,13 +38,6 @@ End-to-end computational pathology pipeline for whole-slide image (WSI) analysis
 R package for network analysis of RNA-seq time-series data. It covers alignment, differential expression, correlation and regulatory network inference, and network-based summaries for comparative genomics studies. Co-authored with Drew Ferrell and George V. Popescu.
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![Bioconductor](https://img.shields.io/badge/Bioconductor-edgeR%20%7C%20limma%20%7C%20WGCNA-1a81c2?style=flat-square)
-
-## 📄 Publications & Talks
-
-<!-- Optional. Delete this section if not ready. -->
-
-- *Title of paper*, Journal/Conference, Year. [Link](#)
-- *Title of poster or talk*, Venue, Year.
 
 ## 🌱 Currently
 
