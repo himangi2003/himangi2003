@@ -34,9 +34,8 @@ End-to-end computational pathology pipeline for whole-slide image (WSI) analysis
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Version](https://img.shields.io/badge/version-0.1.0-informational?style=flat-square) ![License](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square) ![Status](https://img.shields.io/badge/status-in_development-orange?style=flat-square)
 
-
 ### [MultiDGEA](https://github.com/himangi2003/MultiDGEA)
-R package for differential gene expression analysis of RNA-seq data across multiple time points. It runs five methods side by side (**limma-voom**, **limma-voom with duplicate correlation**, **DESeq2**, **kimma**, and **DREAM**) and compares their results with p-value and log-fold-change scatter plots and Venn diagrams of significant genes. Also includes heatmaps, volcano plots, and normalized-count plots. Developed in 2023 under the mentorship of [Dr. Andrew Fiore-Gartland](https://github.com/agartland) at the Vaccine and Infectious Disease Division (VIDD), Fred Hutch Cancer Center.
+R package for differential gene expression analysis of RNA-seq data across multiple time points. It runs five methods side by side (**limma-voom**, **limma-voom with duplicate correlation**, **DESeq2**, **kimma**, and **DREAM**) and compares their results with p-value and log-fold-change scatter plots and Venn diagrams of significant genes. Also includes heatmaps, volcano plots, and normalized-count plots. Developed in 2023 under the mentorship of Dr. Andrew Fiore-Gartland ([Fred Hutch profile](https://www.fredhutch.org/en/research/divisions/vaccine-infectious-disease-division/faculty-labs/vidd-staff-scientists-physicians/fiore-gartland-andrew.html)) at the Vaccine and Infectious Disease Division (VIDD), Fred Hutch Cancer Center.
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
